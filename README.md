@@ -16,6 +16,8 @@ A responsive browser-based expense manager designed as a BTech/placement portfol
 - LocalStorage persistence
 - Responsive mobile-friendly UI
 - Highest-spending category insight
+## DEMO
+https://yadavvikas06081302.github.io/DSA-Smart-Expense-manager/
 
 ## DSA Concepts
 1. **Array/List** — stores transaction records.
